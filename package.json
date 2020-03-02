@@ -1,16 +1,16 @@
 {
-  "name"       : "jcore-react-native",
+  "name": "jcore-react-native-google",
   "description": "React Native JCore component for Android and iOS",
-  "homepage"   : "https://github.com/jpush/jcore-react-native",
-  "author"     : "wicked.tc130",
-  "license"    : "ISC",
-  "main"       : "index.js",
-  "version"    : "1.5.0",
-  "repository" : {
+  "homepage": "https://github.com/ewinds/jcore-react-native",
+  "author": "wicked.tc130",
+  "license": "ISC",
+  "main": "index.js",
+  "version": "1.5.0",
+  "repository": {
     "type": "git",
-    "url": "https://github.com/jpush/jcore-react-native"
+    "url": "https://github.com/ewinds/jcore-react-native"
   },
-  "keywords"   : [
+  "keywords": [
     "react-native",
     "jiguang",
     "JCore"
